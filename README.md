@@ -1,16 +1,22 @@
-## Hi there 👋
+## projects
 
-<!--
-**bonnwest/bonnwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### marketplace monitor
+monitors a major secondhand marketplace for new listings in real time.
+you define your search — it polls continuously, filters out irrelevant posts using a banword list, and fires an instant notification the moment something matching shows up.
 
-Here are some ideas to get you started:
+> real-time polling · banword filtering · instant notifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### preisscout
+> instant price intelligence — powered by statistical filtering
+
+you type a product name. it scrapes all available listings, throws out junk (accessories, €1 bait, price anomalies), and gives you clean numbers:
+
+```
+min / max / median / avg + top 5 cheapest with links
+```
+
+filters work in layers — title relevance first, then a dynamic price floor, then IQR outlier removal. what comes out is actually useful.
+
+> scraping · statistics · CLI tool
