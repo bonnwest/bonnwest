@@ -11,6 +11,7 @@ you define your search — it polls continuously, filters out irrelevant posts u
 > your digital shield against the "yellow envelope" — powered by ai
 
 snap a photo of any german official letter. it decodes the "beamtendeutsch" (bureaucratic jargon), identifies critical deadlines, and transforms complex legal paragraphs into a clear, actionable roadmap in your native language.
+Designed for individuals who lack confidence in their German language skills.
 
 currently in the final testing phase and undergoing active refinement.
 
