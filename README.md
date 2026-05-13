@@ -7,6 +7,17 @@ you define your search — it polls continuously, filters out irrelevant posts u
 > real-time polling · banword filtering · instant notifications
 
 ---
+### briefik (in progress)
+> your digital shield against the "yellow envelope" — powered by ai
+
+snap a photo of any german official letter. it decodes the "beamtendeutsch" (bureaucratic jargon), identifies critical deadlines, and transforms complex legal paragraphs into a clear, actionable roadmap in your native language.
+
+currently in the final testing phase and undergoing active refinement.
+
+```text
+urgency traffic light / actionable tasks / deadlines extraction
+```
+
 
 ### preisscout
 > instant price intelligence — powered by statistical filtering
